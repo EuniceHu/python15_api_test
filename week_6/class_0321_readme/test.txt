@@ -1,0 +1,9 @@
+test_001 (week_6.class_0321_readme.learn_unittest_one.TestAdd) ... ok
+test_002 (week_6.class_0321_readme.learn_unittest_one.TestAdd) ... ok
+test_001 (week_6.class_0321_readme.learn_unittest_one.TestSub) ... ok
+test_002 (week_6.class_0321_readme.learn_unittest_one.TestSub) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK

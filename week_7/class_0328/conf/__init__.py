@@ -1,0 +1,3 @@
+emailname = 'xxx'
+
+emailpwd = 'xxx'

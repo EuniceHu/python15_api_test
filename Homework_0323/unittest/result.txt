@@ -1,0 +1,9 @@
+test_request_fail_1 (class_homework.unittest.test_unit.Test_Case) ... ok
+test_request_fail_2 (class_homework.unittest.test_unit.Test_Case) ... ok
+test_request_success_1 (class_homework.unittest.test_unit.Test_Case) ... ok
+test_request_success_2 (class_homework.unittest.test_unit.Test_Case) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.456s
+
+OK

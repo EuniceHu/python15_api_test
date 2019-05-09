@@ -1,0 +1,12 @@
+2019-03-25 22:20:21,147 - logprase.py [line:39] - INFO - logs - 日志信息：响应结果信息{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2019-03-25 22:20:21,192 - logprase.py [line:39] - INFO - logs - 日志信息：执行结果Pass
+2019-03-25 22:20:21,287 - logprase.py [line:39] - INFO - logs - 日志信息：响应结果信息{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2019-03-25 22:20:21,318 - logprase.py [line:39] - INFO - logs - 日志信息：执行结果Pass
+2019-03-25 22:20:21,429 - logprase.py [line:39] - INFO - logs - 日志信息：响应结果信息{'status': 1, 'code': '10001', 'data': {'id': 1117902, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18688773467', 'leaveamount': '6366025.00', 'type': '1', 'regtime': '2019-02-08 18:20:02.0'}, 'msg': '充值成功'}
+2019-03-25 22:20:21,489 - logprase.py [line:39] - INFO - logs - 日志信息：执行结果Pass
+2019-03-25 22:20:33,220 - logprase.py [line:39] - INFO - logs - 日志信息：响应结果信息{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2019-03-25 22:20:33,273 - logprase.py [line:39] - INFO - logs - 日志信息：执行结果Pass
+2019-03-25 22:20:33,369 - logprase.py [line:39] - INFO - logs - 日志信息：响应结果信息{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2019-03-25 22:20:33,460 - logprase.py [line:39] - INFO - logs - 日志信息：执行结果Pass
+2019-03-25 22:20:33,586 - logprase.py [line:39] - INFO - logs - 日志信息：响应结果信息{'status': 1, 'code': '10001', 'data': {'id': 1117902, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18688773467', 'leaveamount': '6366125.00', 'type': '1', 'regtime': '2019-02-08 18:20:02.0'}, 'msg': '充值成功'}
+2019-03-25 22:20:33,651 - logprase.py [line:39] - INFO - logs - 日志信息：执行结果Pass
